@@ -5,8 +5,8 @@ setclipboard("nevertokra")
 
 local Window = Rayfield:CreateWindow({
    Name = "Tokra System | Key Verification",
-   LoadingTitle = "Checking Access...",
-   LoadingStatus = "by Sladostrastnik",
+   LoadingTitle = "Loading System",
+   LoadingStatus = "Loading...",
    ConfigurationSaving = {
       Enabled = false
    },
