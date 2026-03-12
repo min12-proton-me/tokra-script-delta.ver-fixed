@@ -10,13 +10,13 @@ local Window = Rayfield:CreateWindow({
    ConfigurationSaving = {
       Enabled = false
    },
-   KeySystem = true,
+   KeySystem = false,
    KeySettings = {
       Title = "Enter Key",
-      Subtitle = "nah",
+      Subtitle = "",
       Note = "Key: nevertokra",
       FileName = "TokraKey",
-      SaveKey = false,
+      SaveKey = true,
       GrabKeyFromSite = false,
       Key = {"nevertokra"}
    }
