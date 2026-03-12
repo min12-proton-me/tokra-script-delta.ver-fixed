@@ -1,6 +1,5 @@
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
--- Auto Copy Discord Link
 setclipboard("nevertokra")
 
 local Window = Rayfield:CreateWindow({
